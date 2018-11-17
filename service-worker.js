@@ -1,4 +1,4 @@
-const cacheName = 'my-app-v2';
+const cacheName = 'my-app-v1';
 
 const cacheAssets = [
 	'app.css',
